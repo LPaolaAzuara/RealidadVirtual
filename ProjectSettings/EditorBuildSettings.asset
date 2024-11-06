@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Prueva_RV1.unity
+    guid: b2aa3f8d5dc1c854baaa9b57623822e9
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f9663a6d93deada4cb4d62cecf8bd4e6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c10bb3dfec1dd8246a83862471392b45, type: 2}
